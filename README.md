@@ -60,7 +60,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 ```
 jupyter notebook
 ```
-##👤 Author
+## Author
 ```
 Praveen
 
