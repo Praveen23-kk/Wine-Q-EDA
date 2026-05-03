@@ -47,3 +47,22 @@ The following Python libraries were utilized for this analysis:
  ┣ 📜 winequality.csv        # The raw dataset (add your CSV file here)
  ┣ 📜 Wine_Quality_EDA.ipynb # Jupyter Notebook containing the full analysis
  ┗ 📜 README.md              # Project documentation
+```
+## Navigate to the project directory:
+```
+cd Wine-Q-EDA
+```
+## Install required dependencies:
+```
+pip install pandas numpy matplotlib seaborn jupyter
+```
+## Open the Jupyter Notebook:
+```
+jupyter notebook
+```
+##👤 Author
+
+Praveen
+
+GitHub: @Praveen23-kk
+
